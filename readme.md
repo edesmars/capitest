@@ -1,2 +1,2 @@
-This is a sample project to test deployment with capitrasno and capifony. 
-THe code is from the Symblog Tutorial: http://tutorial.symblog.co.uk/
+This is a sample project to test deployment with capistrano and capifony. <br/>
+The code is from the Symblog Tutorial: http://tutorial.symblog.co.uk/
